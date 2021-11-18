@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: rkeram1/spring
+          image: rkeram1/jhooq-docker-demo:jhooq-docker-demo
 
           resources:
             requests:
